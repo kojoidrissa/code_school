@@ -52,7 +52,7 @@
     -  Pro Dev site: something to help you create a pro dev plan and track your progress. And help support/encourage you. Gamify it?
     -  [Building a blog using Flask and AngularJS Part 1](http://blog.john.mayonvolcanosoftware.com/building-a-blog-using-flask-and-angularjs-part-1/?utm_source=Python+Weekly+Newsletter&utm_campaign=7c725cb02d-Python_Weekly_Issue_154_August_28_2014&utm_medium=email&utm_term=0_9e26887fc5-7c725cb02d-312680573)
         +  This would get me Python and Angular.JS practice.
-    -  Builld out all my  blog ideas
+    -  Build out all my  blog ideas
         +  WuXing
         +  PUtS
         +  DYJ
@@ -64,3 +64,5 @@
 
 ##Resources
 -  Lynda? I should search it
+-  Makersquare has a week-by-week breakdown on their [home page](http://www.makersquare.com/)
+    +  Their part-time [Front End](http://www.makersquare.com/part-time) curriculum is also interesting.
