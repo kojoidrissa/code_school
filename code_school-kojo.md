@@ -38,15 +38,6 @@
     -  Be sure to allow enough time to develop some expertise & experience in each area
     -  Develop a plan of progression for each chosen area.
 
-##End Goals
--  be able to build working software solutions that can be deployed on the web or corporate intranets
-    +  I think this is my primary goal: web-deliverable software
--  back-end Django or Python dev
--  able to make meaningful contributions to FLOSS projects
--  what's my target?
-    -  job?
-        +  [RICE OpenStax position](jobs.rice.edu/applicants/Central?quickFind=54509)
-    -  my own biz?
 
 ##How to practice
 - 180 web sites project?
